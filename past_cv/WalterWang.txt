@@ -1,0 +1,78 @@
+Walter Wang
+022-104-1307
+legolaswyq@gmail.com
+https://www.linkedin.com/in/yuqi-wang-74a84b218/
+
+Skills
+Front-end: React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
+Back-end: Python, JavaScript, PHP, Java, Flask, FastAPI, Django, Node.js, Docker, Git
+Database: PostgreSQL, SQLite, MongoDB
+Machine Learning & AI: TensorFlow, Pytorch, scikit-learn, Object Detection, Segmentation, Classification, LSTM, Google Cloud Vertex AI, AutoML, BigQuery ML, Prompt Engineer
+CI/CD: GitLab CI/CD
+Cloud: Google Cloud, AWS
+Automation & LLM: Deepseek, Claude, ChatGPT, Gemini, SiliconFlow, Hyperbolic, DIFY
+iOS Development: Swift
+
+Work Experience
+Full-Stack Developer
+Self-employed
+Responsibilities
+Front-end: Developed dynamic and responsive user interfaces using React, Next.js, TypeScript, and Tailwind CSS.
+Back-end: Built and maintained scalable back-end services with Python, PHP, Flask, FastAPI, Django, and integrated databases such as PostgreSQL, MySQL, and MongoDB.
+AI & Automation: Integrated LLM APIs (Deepseek, Claude) to automate workflows and streamline tasks. Designed and optimized prompt engineering strategies to improve LLM responses for automation, content generation, and data processing. Utilized automation platforms like DIFY to enhance workflow efficiency.
+CI/CD: Implemented CI/CD pipelines with GitLab 
+Deployment: Deployed applications with Vercel and database on AWS RDS
+
+Machine Learning Engineer & iOS Developer
+OPUM
+Responsibilities
+Designed and implemented an iOS application to collect and process real-time data from wearable sensors attached to patients' knees.
+Preprocessed and analyzed time-series sensor data (e.g., accelerometer, gyroscope) to train a Time Series Classification Model Using LSTM for activity classification.
+Deploy the trained model on iOS devices and provide real-time activity classification and show statistical reports.
+
+Artificial Intelligence Engineer
+Imagr
+May 2022 – Now
+Responsibilities
+
+Design train and deployed Computer Vision models for smart shopping carts, focusing on Object Detection (YOLO, SSD, Faster R-CNN), Segmentation (U-net, Mask R-CNN, SAM), and Classification(Mobile-Net, Efficient-Net, Inception).
+Optimized models for edge deployment on Google EdgeTPU using quantization techniques, achieving up to a 75% reduction in model size and a 2-4x increase in inference speed, with minimal accuracy loss.
+Trained models using Google Cloud's Tensor Processing Units (TPUs) and prepared datasets in TFRecord format. Familiar with Google Cloud ML platform services like Vertex AI, AutoML, BigQuery ML.
+Self-hosted CVAT for data annotation, integrating trained models with auto-annotation to reduce costs by 90% and shorten annotation time by 50%.
+Utilized multi-processing for batch image preprocessing, including debayer and augmentation, reducing preprocessing time by 80%.
+
+Intern 
+Davanti Consultant 
+November 2021 – Feb 2022
+Responsibilities
+Use the Salesforce System to develop a CRM for a Non-profit organization with their System transformation
+Communicate with clients, gather requirements, customer showcase, implement features, testing, document. 
+Agile way of working, good communication with colleagues, conflict resolution, best practices for deployment.
+
+Graduate Teaching Assistant
+University of Auckland 
+Mar 2021 - Nov 2021 
+Responsibilities
+Provide teaching support for CS719 Programming with Web Technologies (JavaScript, NodeJS, Database design, HTML & CSS, SQLite)
+Provide teaching support for CS718 Programming for Industry (Java)
+Prepare and conduct online live code demo sessions to explain complex concepts in an easy way to understand. 
+
+
+Education Summary 
+Auckland University 
+Master of Information Technology 
+With First Class Honours (GPA 8.0)
+
+Academic Award and Certificate
+AWS Certified Solutions Architect - Associate
+
+Reference
+Konstantinos 
+Imagr
+Chief AI officer
+konstantinos@imagr.co
+
+Alice Hopkinson	
+Davanti Consulting 
+Practice Lead
+alice.hopkinson@davanti.co.nz

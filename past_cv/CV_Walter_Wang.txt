@@ -1,0 +1,64 @@
+Walter Wang
+022-104-1307 | legolaswyq@gmail.com
+
+Professional Profile
+Innovative AI Engineer with over two years of experience in developing advanced AI models for smart shopping carts at IMAGR and health technology at OPUM. Proficient in end-to-end AI development, including data collection, model design, training, and deployment. Skilled in computer vision, time-series analysis, and natural language processing (NLP), with expertise in optimizing models for edge devices like Google EdgeTPU.
+Experienced in building iOS applications for real-time data processing and deploying AI solutions in production environments. Proficient in TensorFlow, PyTorch, Python, and full-stack development with React, Next.js, and Flask. Adept at integrating PostgreSQL on AWS and deploying applications on Vercel. Passionate about staying at the cutting edge of AI trends, utilizing LLMs, low-code platforms (Dify), and Deepseek APIs to deliver innovative and impactful solutions.
+
+Work Experience
+Web Application Developer
+Developed a full-stack web application using React, Next.js, and TypeScript for the frontend, with Python Flask for the backend.
+Deployed a PostgreSQL database on AWS RDS and integrated Deepseek LLM APIs for natural language processing.
+Utilized Tailwind CSS for responsive UI design and deployed the frontend on Vercel.
+Integrated Dify, a low-code automation platform, to streamline workflows and enhance functionality.
+
+Machine Learning Engineer & iOS Developer
+OPUM
+Designed and implemented an iOS app using Swift to collect and process real-time data from wearable knee sensors.
+Preprocessed time-series sensor data (accelerometer, gyroscope) and trained an LSTM model for activity classification.
+Deployed the model on iOS devices using CoreML for real-time activity classification and statistical reporting.
+
+Artificial Intelligence Engineer
+Imagr | May 2022 – Present
+Designed and deployed Computer Vision models for smart shopping carts, focusing on object detection, segmentation, and classification.
+Managed data collection and annotation using CVAT and auto-annotation with YOLOv5.
+Optimized models for edge devices like Google EdgeTPU using quantization techniques.
+Improved post-deployment models by identifying performance gaps and retraining with additional data.
+Implemented SORT algorithm for real-time object tracking and used web crawling for data collection.
+
+Intern
+Davanti Consultant | November 2021 – February 2022
+Developed a CRM for a non-profit organization using Salesforce, automating email sending and membership management.
+Collaborated with clients to gather requirements, implement features, and conduct testing.
+Worked in an Agile environment, ensuring effective communication and deployment best practices.
+
+Graduate Teaching Assistant
+University of Auckland | March 2021 – November 2021
+Provided teaching support for CS719 Programming with Web Technologies (JavaScript, NodeJS, HTML, CSS, SQLite).
+Assisted in CS718 Programming for Industry (Java) and conducted live code demo sessions.
+
+Skills
+Programming Languages: Python, SwiftUI, TypeScript, JavaScript
+Frameworks & Tools: TensorFlow, PyTorch, React, Next.js, Flask, Docker, Git, SQL
+Cloud Platforms: Google Cloud, AWS
+Other: Snowflake, Low-code automation (Dify), LLM APIs 
+
+Education
+Auckland University
+Master of Information Technology (First Class Honours GPA 8.0)
+Postgraduate Certificate in Information Technology (Best Student Award, 2020)
+South China Agricultural University
+Bachelor of Industrial Engineering
+
+Certifications
+AWS Certified Solutions Architect - Associate
+Certificates of Outstanding Achievement: Data Mining, Advanced AI
+Coursera Deep Learning Specialization (Andrew Ng)
+
+References
+Konstantinos
+Chief AI Officer, Imagr
+konstantinos@imagr.co
+Alice Hopkinson
+Practice Lead, Davanti Consulting
+alice.hopkinson@davanti.co.nz
